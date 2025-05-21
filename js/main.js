@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const API_URL = 'http://3.236.178.187:80/api/devices';
+  const API_URL = 'http://44.198.170.34:80/api/devices';
   const historial = document.getElementById('historial');
   const estadoMovimiento = document.getElementById('estadoMovimiento');
   
